@@ -1,4 +1,4 @@
-# apple-ecommerce-website
+# Apple eCommerce
 Apple eCommerce Portfolio website
 
 Here some the website preview...
